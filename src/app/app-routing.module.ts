@@ -8,7 +8,7 @@ import { ContactComponent } from './components/contact/contact.component';
 
 
 const routes: Routes = [
-  { path: '', component: HomeComponent },        // your hero/home page component
+  // { path: '', component: HomeComponent },        // your hero/home page component
   { path: 'skills', component: SkillsComponent },
   { path: 'resume', component: ResumeComponent },
   { path: 'contact', component: ContactComponent }
